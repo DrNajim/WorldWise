@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +23,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Kafr Saqr",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-03T18:21:15.933Z",
+      "notes": "asss",
+      "position": {
+        "lat": "30.828697204445906",
+        "lng": "31.60148620605469"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-08-03T18:25:34.930Z",
+      "notes": "giza zooo",
+      "position": {
+        "lat": "29.84064389983441",
+        "lng": "31.289062500000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-09T02:41:38.681Z",
+      "notes": "",
+      "position": {
+        "lat": "40.009340851001646",
+        "lng": "-0.04463195800781251"
+      },
+      "id": 98443200
     }
   ]
 }
